@@ -1,0 +1,42 @@
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\bin\Debug\quiz do paulo.exe.config
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\bin\Debug\quiz do paulo.exe
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\bin\Debug\quiz do paulo.pdb
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\bin\Debug\Google.Protobuf.dll
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\bin\Debug\MySql.Data.dll
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\bin\Debug\System.Buffers.dll
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\bin\Debug\System.IO.Pipelines.dll
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\bin\Debug\System.Memory.dll
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\bin\Debug\ZstdSharp.dll
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\bin\Debug\Google.Protobuf.pdb
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\bin\Debug\Google.Protobuf.xml
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\bin\Debug\MySql.Data.xml
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\bin\Debug\System.Buffers.xml
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\bin\Debug\System.IO.Pipelines.xml
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\bin\Debug\System.Memory.xml
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\obj\Debug\quiz do paulo.csproj.AssemblyReference.cache
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\obj\Debug\quiz_do_paulo.Form1.resources
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\obj\Debug\quiz_do_paulo.Properties.Resources.resources
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\obj\Debug\quiz do paulo.csproj.GenerateResource.cache
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\obj\Debug\quiz do paulo.csproj.CoreCompileInputs.cache
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\obj\Debug\quiz do paulo.csproj.CopyComplete
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\obj\Debug\quiz do paulo.exe
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\quiz paulo\quiz do paulo\quiz do paulo\obj\Debug\quiz do paulo.pdb
